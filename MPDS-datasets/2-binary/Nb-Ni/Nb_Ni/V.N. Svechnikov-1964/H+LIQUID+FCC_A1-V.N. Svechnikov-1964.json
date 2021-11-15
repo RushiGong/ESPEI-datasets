@@ -1,0 +1,28 @@
+{
+    "components": [
+        "NB",
+        "NI"
+    ],
+    "phases": [
+        "LIQUID",
+        "FCC_A1"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1579.1667984996732,
+            1629.4182303172395,
+            1676.7451222366285,
+            1732.3454091904387
+        ]
+    },
+    "values":[
+             [["LIQUID",["NB"],[0.12991424025645287]],["FCC_A1",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.0964131468179864]],["FCC_A1",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.06611549126950672]],["FCC_A1",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.0014894930598429446]],["FCC_A1",["NB"],[null]]]
+        ],
+    "reference": "V.N. Svechnikov-1964"
+}

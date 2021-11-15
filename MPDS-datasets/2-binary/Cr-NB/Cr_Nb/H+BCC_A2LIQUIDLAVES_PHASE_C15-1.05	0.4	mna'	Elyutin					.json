@@ -1,0 +1,60 @@
+{
+    "components": [
+        "CR",
+        "NB",
+        "VA"
+    ],
+    "phases": [
+        "BCC_A2",
+        "LIQUID",
+        "LAVES_PHASE_C15"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1666.9,
+            1699.2,
+            1399.2,
+            1498.8,
+            1551.1,
+            1790.5,
+            1712.1,
+            1647.4,
+            1666.2,
+            1675.5,
+            1698.2,
+            1727.7,
+            1778.5,
+            1822.9,
+            1836.1,
+            1947.6,
+            2058.4,
+            1720.7,
+            1500.3
+        ]
+    },
+    "values":[
+             [["BCC_A2",["NB"],[0.04779]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.02348]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.03506]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.03935]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.0563]],["LIQUID",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.07277]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.14708]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.197]],["BCC_A2",["NB"],[null]]],
+             [["LAVES_PHASE_C15",["NB"],[0.32835]],["LIQUID",["NB"],[null]]],
+             [["LAVES_PHASE_C15",["NB"],[0.39789]],["LIQUID",["NB"],[null]]],
+             [["LAVES_PHASE_C15",["NB"],[0.44561]],["LIQUID",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.54741]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.59653]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.64692]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.69845]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.84822]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.94779]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.89744]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.87333]],["LAVES_PHASE_C15",["NB"],[null]]]
+        ],
+    "reference": "Elyutin"
+}

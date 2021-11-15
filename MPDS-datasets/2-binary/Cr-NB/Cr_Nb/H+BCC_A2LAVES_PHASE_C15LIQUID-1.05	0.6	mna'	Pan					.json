@@ -1,0 +1,36 @@
+{
+    "components": [
+        "CR",
+        "NB",
+        "VA"
+    ],
+    "phases": [
+        "BCC_A2",
+        "LAVES_PHASE_C15",
+        "LIQUID"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1585.0,
+            1740.0,
+            1800.0,
+            1723.0,
+            1687.0,
+            1677.0,
+            1705.0
+        ]
+    },
+    "values":[
+             [["LIQUID",["NB"],[0.05516]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.05453]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.0548]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.1188]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.15212]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.22673]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.43019]],["LAVES_PHASE_C15",["NB"],[null]]]
+        ],
+    "reference": "Pan"
+}

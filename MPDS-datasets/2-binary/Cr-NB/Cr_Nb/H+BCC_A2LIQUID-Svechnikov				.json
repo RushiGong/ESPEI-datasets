@@ -1,0 +1,35 @@
+{
+    "components": [
+        "CR",
+        "NB",
+        "VA"
+    ],
+    "phases": [
+        "BCC_A2",
+        "LIQUID"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1347.95,
+            1662.0,
+            1699.32,
+            1907.65,
+            2097.33,
+            1671.33,
+            1699.32
+        ]
+    },
+    "values":[
+             [["BCC_A2",["NB"],[0.835199]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.744403]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.748134]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.799129]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.899876]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.311567]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.361318]],["LIQUID",["NB"],[null]]]
+        ],
+    "reference": "Svechnikov"
+}

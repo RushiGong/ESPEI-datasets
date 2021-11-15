@@ -1,0 +1,27 @@
+{
+    "components": [
+        "CR",
+        "NB",
+        "VA"
+    ],
+    "phases": [
+        "BCC_A2",
+        "LAVES_PHASE_C15"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1200.0,
+            1200.0,
+            1200.0
+        ]
+    },
+    "values":[
+             [["LAVES_PHASE_C15",["NB"],[0.31735]],["BCC_A2",["NB"],[null]]],
+             [["LAVES_PHASE_C15",["NB"],[0.37784]],["BCC_A2",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.88879]],["LAVES_PHASE_C15",["NB"],[null]]]
+        ],
+    "reference": "Zakharova"
+}

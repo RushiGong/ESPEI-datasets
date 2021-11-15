@@ -1,0 +1,62 @@
+{
+    "components": [
+        "CR",
+        "NB",
+        "VA"
+    ],
+    "phases": [
+        "BCC_A2",
+        "LIQUID",
+        "LAVES_PHASE_C15"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1740.9,
+            1660.9,
+            1699.9,
+            1615.9,
+            1633.4,
+            1701.3,
+            1741.0,
+            1781.7,
+            1717.8,
+            1728.7,
+            1706.7,
+            1582.0,
+            2450.0,
+            2045.0,
+            1891.9,
+            1861.4,
+            1552.8,
+            1000.0,
+            1740.0,
+            1699.9
+        ]
+    },
+    "values":[
+             [["BCC_A2",["NB"],[0.19997]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.10954]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.07496]],["LIQUID",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.53663]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.49681]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.44562]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.39689]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.32628]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.29254]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.32605]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.26289]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.32928]],["LAVES_PHASE_C15",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.99709]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.90012]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.83897]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.8234]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.8195]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.97542]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.65686]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.60778]],["LIQUID",["NB"],[null]]]
+        ],
+    "reference": "Goldschmidt"
+}

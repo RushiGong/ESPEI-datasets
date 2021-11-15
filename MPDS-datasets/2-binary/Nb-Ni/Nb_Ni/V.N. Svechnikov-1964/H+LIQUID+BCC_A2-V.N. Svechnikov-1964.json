@@ -1,0 +1,24 @@
+{
+    "components": [
+        "NB",
+        "NI"
+    ],
+    "phases": [
+        "LIQUID",
+        "BCC_A2"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1719.3755414239213,
+            1659.4424047173761
+        ]
+    },
+    "values":[
+             [["LIQUID",["NB"],[0.6348451650852494]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.6183129588257394]],["BCC_A2",["NB"],[null]]]
+        ],
+    "reference": "V.N. Svechnikov-1964"
+}

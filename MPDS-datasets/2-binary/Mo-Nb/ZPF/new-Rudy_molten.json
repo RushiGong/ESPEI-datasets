@@ -1,0 +1,21 @@
+{
+    "components": [
+        "MO",
+        "NB"
+    ],
+    "phases": [
+        "EXP"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            2753.3679554355595
+        ]
+    },
+    "values":[
+             [["EXP",["MO"],[0.1493975903614458]],["EXP",["MO"],[null]]]
+        ],
+    "reference": "Rudy_molten"
+}

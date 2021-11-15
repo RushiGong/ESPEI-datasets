@@ -1,0 +1,48 @@
+{
+    "components": [
+        "CR",
+        "NB",
+        "VA"
+    ],
+    "phases": [
+        "BCC_A2",
+        "LAVES_PHASE_C15",
+        "LIQUID"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1777.6,
+            1711.4,
+            1699.2,
+            1721.6,
+            1725.7,
+            1670.4,
+            2363.0,
+            2098.2,
+            1909.4,
+            1702.7,
+            1656.1,
+            1789.4,
+            1725.4
+        ]
+    },
+    "values":[
+             [["LIQUID",["NB"],[0.14736]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.09689]],["BCC_A2",["NB"],[null]]],
+             [["LAVES_PHASE_C15",["NB"],[0.35681]],["LIQUID",["NB"],[null]]],
+             [["LAVES_PHASE_C15",["NB"],[0.34532]],["LIQUID",["NB"],[null]]],
+             [["LAVES_PHASE_C15",["NB"],[0.32475]],["LIQUID",["NB"],[null]]],
+             [["LAVES_PHASE_C15",["NB"],[0.30521]],["LIQUID",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.89777]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.89777]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.79787]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.74807]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.7453]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.69696]],["BCC_A2",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.59759]],["BCC_A2",["NB"],[null]]]
+        ],
+    "reference": "Rudy"
+}

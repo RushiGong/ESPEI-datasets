@@ -1,0 +1,24 @@
+{
+    "components": [
+        "NB",
+        "NI"
+    ],
+    "phases": [
+        "FCC_A1",
+        "LIQUID"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1628.9714796246822,
+            1592.5070950232403
+        ]
+    },
+    "values":[
+             [["FCC_A1",["NB"],[0.06578548049832184]],["LIQUID",["NB"],[null]]],
+             [["FCC_A1",["NB"],[0.09562089873766719]],["LIQUID",["NB"],[null]]]
+        ],
+    "reference": "V.N. Svechnikov-1964"
+}

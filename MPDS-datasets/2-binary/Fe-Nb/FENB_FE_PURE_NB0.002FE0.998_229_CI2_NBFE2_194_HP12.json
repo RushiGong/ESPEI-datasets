@@ -1,0 +1,31 @@
+{
+    "components": [
+        "FE",
+        "NB"
+    ],
+    "phases": [
+        "FE_PURE",
+        "NB0.002FE0.998_229_CI2",
+        "NBFE2_194_HP12"
+    ],
+    "conditions": {
+        "P": 101325,
+        "T": [
+            273,
+            1201.161,
+            1810.84
+        ]
+    },
+    "output": "ZPF",
+    "broadcast_conditions": false,
+    "values":
+			[[["FE_PURE",["NB"],[0.0]],["NB0.002FE0.998_229_CI2",["NB"],[null]]],
+			[["FE_PURE",["NB"],[0.0]],["NBFE2_194_HP12",["NB"],[null]]],
+			[["FE_PURE",["NB"],[0.000381243]],["NBFE2_194_HP12",["NB"],[null]]]],
+	"reference": "C1600299",
+    "phase": [
+        "FE_PURE",
+        "NB0.002FE0.998_229_CI2",
+        "NBFE2_194_HP12"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "components": ["CR",
+    "FE"],"phases": ["BCC_A2", "SIGMA"],"broadcast_conditions": false,
+  "output": "ZPF",
+  "conditions": {
+    "P": 101325,
+    "T": [990.6978112160837,
+      1019.9580669044192,
+      1019.7140576445802,
+      990.9147083359403,
+      1082.6913877244574,
+      1082.4411218169305,
+      872.0,
+      872.0
+    ]},
+  "values": [
+    [["SIGMA", ["CR"],[0.4412326986311844]],["BCC_A2", ["CR"],[null]]],
+    [["SIGMA", ["CR"],[0.4422560081197383]],["BCC_A2", ["CR"],[null]]],
+    [["SIGMA", ["CR"],[0.49864091708551517]],["BCC_A2", ["CR"],[null]]],
+    [["SIGMA", ["CR"],[0.5022238906616058]],["BCC_A2", ["CR"],[null]]],
+    [["SIGMA", ["CR"],[0.46740077999541185]],["BCC_A2", ["CR"],[null]]],
+    [["SIGMA", ["CR"],[0.47394940457569507]],["BCC_A2", ["CR"],[null]]],
+    [["SIGMA", ["CR"],[0.439714418792189]],["BCC_A2", ["CR"],[null]]],
+    [["SIGMA", ["CR"],[0.4993736400481067]],["BCC_A2", ["CR"],[null]]]
+  ],
+  "reference": "cook1943",
+  "comment": "Digitized from Figure 1.",
+  "author": "Bocklund, Brandon"
+}

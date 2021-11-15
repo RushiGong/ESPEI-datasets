@@ -1,0 +1,22 @@
+{
+    "components": [
+        "NB",
+        "NI"
+    ],
+    "phases": [
+        "FCC_A1",
+        "DELTA"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1322.3119266055048
+        ]
+    },
+    "values":[
+             [["FCC_A1",["NB"],[0.09590393026891292]],["DELTA",["NB"],[null]]]
+        ],
+    "reference": "Chen-2005"
+}

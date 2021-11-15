@@ -1,0 +1,26 @@
+{
+    "components": [
+        "MO",
+        "NI",
+        "VA"
+    ],
+    "phases": [
+        "BCC_A2",
+        "LIQUID",
+        "D_NIMO"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1873.4462469836676,
+            1473.266837262923
+        ]
+    },
+    "values":[
+             [["BCC_A2",["NI"],[0.016353383458646564]],["LIQUID",["NI"],[null]]],
+             [["BCC_A2",["NI"],[0.024248120300751852]],["D_NIMO",["NI"],[null]]]
+        ],
+    "reference": "Yaqoob"
+}

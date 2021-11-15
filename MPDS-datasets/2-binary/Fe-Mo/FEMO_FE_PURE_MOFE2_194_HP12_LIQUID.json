@@ -1,0 +1,28 @@
+{
+    "components": [
+        "FE",
+        "MO"
+    ],
+    "phases": [
+        "FE_PURE",
+        "MOFE2_194_HP12",
+        "LIQUID"
+    ],
+    "conditions": {
+        "P": 101325,
+        "T": [
+            273,
+            1098.409,
+            1098.409,
+            1836.47
+        ]
+    },
+    "output": "ZPF",
+    "broadcast_conditions": false,
+    "values":
+			[[["FE_PURE",["MO"],[0.0]],["MOFE2_194_HP12",["MO"],[null]]],
+			[["FE_PURE",["MO"],[0.0]],["LIQUID",["MO"],[null]]],
+			[["FE_PURE",["MO"],[0.0]],["LIQUID",["MO"],[null]]],
+			[["FE_PURE",["MO"],[0.000381243]],["LIQUID",["MO"],[null]]]],
+	"reference": "C101127"
+}

@@ -1,0 +1,32 @@
+{
+    "components": [
+        "CR",
+        "NI"
+    ],
+    "phases": [
+        "CR_PURE",
+        "CR0.28NI0.72_225_CF4",
+        "CR0.8NI0.2_229_CI2"
+    ],
+    "conditions": {
+        "P": 101325,
+        "T": [
+            273,
+            914.372,
+            841.677,
+            841.677,
+            914.372,
+            2183.92
+        ]
+    },
+    "output": "ZPF",
+    "broadcast_conditions": false,
+    "values":
+			[[["CR_PURE",["NI"],[0.0]],["CR0.28NI0.72_225_CF4",["NI"],[null]]],
+			[["CR_PURE",["NI"],[0.0]],["CR0.28NI0.72_225_CF4",["NI"],[null]]],
+			[["CR_PURE",["NI"],[0.0]],["CR0.28NI0.72_225_CF4",["NI"],[null]]],
+			[["CR_PURE",["NI"],[0.0]],["CR0.28NI0.72_225_CF4",["NI"],[null]]],
+			[["CR_PURE",["NI"],[0.0]],["CR0.8NI0.2_229_CI2",["NI"],[null]]],
+			[["CR_PURE",["NI"],[0.000381243]],["CR0.8NI0.2_229_CI2",["NI"],[null]]]],
+	"reference": "C103217"
+}

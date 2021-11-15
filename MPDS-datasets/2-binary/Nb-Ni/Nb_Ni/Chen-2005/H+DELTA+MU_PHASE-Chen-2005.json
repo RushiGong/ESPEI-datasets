@@ -1,0 +1,22 @@
+{
+    "components": [
+        "NB",
+        "NI"
+    ],
+    "phases": [
+        "DELTA",
+        "MU_PHASE"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1322.3119266055048
+        ]
+    },
+    "values":[
+             [["DELTA",["NB"],[0.2563170111639216]],["MU_PHASE",["NB"],[null]]]
+        ],
+    "reference": "Chen-2005"
+}

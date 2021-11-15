@@ -1,0 +1,22 @@
+{
+    "components": [
+        "NB",
+        "NI"
+    ],
+    "phases": [
+        "LIQUID",
+        "DELTA"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1641.6721511877622
+        ]
+    },
+    "values":[
+             [["LIQUID",["NB"],[0.30002092487968196]],["DELTA",["NB"],[null]]]
+        ],
+    "reference": "Grube-1939"
+}

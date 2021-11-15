@@ -1,0 +1,29 @@
+{
+    "components": [
+        "CR",
+        "NB",
+        "VA"
+    ],
+    "phases": [
+        "BCC_A2",
+        "LIQUID"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1843.7,
+            1796.5,
+            1768.0,
+            1770.6
+        ]
+    },
+    "values":[
+             [["BCC_A2",["NB"],[0.00222]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.01102]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.01991]],["LIQUID",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.09843]],["BCC_A2",["NB"],[null]]]
+        ],
+    "reference": "Eremenko"
+}

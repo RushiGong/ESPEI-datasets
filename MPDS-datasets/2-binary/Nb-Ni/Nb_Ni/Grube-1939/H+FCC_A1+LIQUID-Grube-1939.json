@@ -1,0 +1,26 @@
+{
+    "components": [
+        "NB",
+        "NI"
+    ],
+    "phases": [
+        "FCC_A1",
+        "LIQUID"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1576.9514983315162,
+            1616.8111915067016,
+            1653.6896399819386
+        ]
+    },
+    "values":[
+             [["FCC_A1",["NB"],[0.14814814814814817]],["LIQUID",["NB"],[null]]],
+             [["FCC_A1",["NB"],[0.09946659911968667]],["LIQUID",["NB"],[null]]],
+             [["FCC_A1",["NB"],[0.04946935239332903]],["LIQUID",["NB"],[null]]]
+        ],
+    "reference": "Grube-1939"
+}

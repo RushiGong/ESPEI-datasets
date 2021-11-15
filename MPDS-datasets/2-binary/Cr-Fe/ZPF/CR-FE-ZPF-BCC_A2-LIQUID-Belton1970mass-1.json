@@ -1,0 +1,22 @@
+{
+  "components": ["CR", "FE"],
+  "phases": ["BCC_A2", "LIQUID"],
+  "broadcast_conditions": false,
+  "output": "ZPF",
+  "conditions": {
+    "P": 101325,
+    "T": [
+      1852.5627707828633,
+      1920.2806271056986,
+      2010.798833929216
+    ]
+  },
+  "values": [
+    [["BCC_A2", ["CR"], [0.6779710555787244]], ["LIQUID", ["CR"], [null]]],
+    [["BCC_A2", ["CR"], [0.8213284116414962]], ["LIQUID", ["CR"], [null]]],
+    [["BCC_A2", ["CR"], [0.9115946375270022]], ["LIQUID", ["CR"], [null]]]
+  ],
+  "reference": "Belton1970mass",
+  "comment": "Data digizied from Figure 2.",
+  "author": "Bocklund, Brandon"
+}

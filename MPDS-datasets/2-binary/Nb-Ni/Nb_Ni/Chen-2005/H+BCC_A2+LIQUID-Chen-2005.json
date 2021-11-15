@@ -1,0 +1,24 @@
+{
+    "components": [
+        "NB",
+        "NI"
+    ],
+    "phases": [
+        "BCC_A2",
+        "LIQUID"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1647.3560839838651,
+            1582.3222732889485
+        ]
+    },
+    "values":[
+             [["BCC_A2",["NB"],[0.04911788291900558]],["LIQUID",["NB"],[null]]],
+             [["BCC_A2",["NB"],[0.10505212510024058]],["LIQUID",["NB"],[null]]]
+        ],
+    "reference": "Chen-2005"
+}

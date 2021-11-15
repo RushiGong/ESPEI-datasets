@@ -1,0 +1,29 @@
+{
+    "components": [
+        "NB",
+        "NI"
+    ],
+    "phases": [
+        "LIQUID",
+        "DELTA"
+    ],
+    "broadcast_conditions": "false",
+    "output": "ZPF",
+    "conditions": {
+        "P": 101325,
+        "T": [
+            1592.380733944954,
+            1673.2293577981654,
+            1671.5091743119267,
+            1656.0275229357799
+        ]
+    },
+    "values":[
+             [["LIQUID",["NB"],[0.34500544774116115]],["DELTA",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.3009063778047971]],["DELTA",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.2499605236147735]],["DELTA",["NB"],[null]]],
+             [["LIQUID",["NB"],[0.2003979219630816]],["DELTA",["NB"],[null]]]
+        ],
+    "reference": "Chen-2005",
+    "weights":10
+}
