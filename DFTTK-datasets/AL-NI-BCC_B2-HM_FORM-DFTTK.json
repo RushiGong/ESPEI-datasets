@@ -1,0 +1,45 @@
+{
+ "solver": {
+  "sublattice_site_ratios": [
+   2
+  ],
+  "sublattice_configurations": [
+   [
+    [
+     "Al",
+     "Ni"
+    ]
+   ]
+  ],
+  "mode": "manual",
+  "sublattice_occupancies": [
+   [
+    [
+     0.5,
+     0.5
+    ]
+   ]
+  ]
+ },
+ "output": "HM_FORM",
+ "components": [
+  "Al",
+  "Ni"
+ ],
+ "phases": [
+  "BCC_B2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 300
+ },
+ "values": [
+  [
+   [
+    -63085.04083969345
+   ]
+  ]
+ ],
+ "reference": "DFTTK calculation",
+ "comment": "DFTTK tag: >>4bf5ac34-6ba3-442d-840f-18535d614b58<<"
+}
